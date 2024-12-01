@@ -4,24 +4,23 @@ This repository contains the Python projects I developed during my 1-month inter
 
 ---
 
-🚀 Projects Overview
+🚀 Projects Overview  
+Temperature Conversion:  
+A CLI tool to convert temperatures between Celsius, Fahrenheit, and Kelvin.
 
-1. [Temperature Conversion](#temperature-conversion-program):  
-   A CLI tool to convert temperatures between Celsius, Fahrenheit, and Kelvin.
+Contact Manager:  
+A phonebook-like application to manage contacts (add, search, update, delete).
 
-2. [Contact Manager](#contact-management-program):  
-   A phonebook-like application to manage contacts (add, search, update, delete).
+Sudoku Solver:  
+Solves Sudoku puzzles using the backtracking algorithm.
 
-3. [Guess Game](#guess-game):
-   A number guessing game where users get hints to guess a randomly generated number.
+Web Scraper:  
+Extracts data like titles, links, and metadata from websites.
 
-4. [Sudoku Solver](#sudoku-solver):  
-   Solves Sudoku puzzles using the backtracking algorithm.
+Guess Game:  
+A number guessing game where users get hints to guess a randomly generated number.
 
-5. [Web Scraper](#web-scraper):  
-   Extracts data like titles, links, and metadata from websites.
-
----
+--- 
 
 ## 📂 Project Details
 
