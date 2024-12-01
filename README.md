@@ -30,6 +30,11 @@ This repository contains the Python projects I developed during my 1-month inter
 - Allows adding, searching, updating, and deleting contacts.
 - Uses file handling for persistent data storage.
 
+### Guess Game
+- A fun CLI-based game where users guess a randomly generated number.
+- Provides hints ("Too High" or "Too Low") to guide the user.
+- Uses Python's random module for number generation and loops for gameplay.
+
 ### Sudoku Solver
 - Solves Sudoku puzzles efficiently using recursion and backtracking.
 - Validates input and outputs a formatted grid solution.
