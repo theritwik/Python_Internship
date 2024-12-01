@@ -12,10 +12,13 @@ This repository contains the Python projects I developed during my 1-month inter
 2. [Contact Manager](#contact-management-program):  
    A phonebook-like application to manage contacts (add, search, update, delete).
 
-3. [Sudoku Solver](#sudoku-solver):  
+3. [Guess Game](#guess-game):
+   A number guessing game where users get hints to guess a randomly generated number.
+
+4. [Sudoku Solver](#sudoku-solver):  
    Solves Sudoku puzzles using the backtracking algorithm.
 
-4. [Web Scraper](#web-scraper):  
+5. [Web Scraper](#web-scraper):  
    Extracts data like titles, links, and metadata from websites.
 
 ---
